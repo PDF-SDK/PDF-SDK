@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 1.  [What is PDF-SDK?](#what-is-pdfsdk)
 2.  [Who uses PDF-SDK?](#who-uses-pdfsdk)
 
-### What is JSONSchema.Net?
+### What is PDF SDK?
 
 [PDF SDK](https://www.sdkpdf.com) is a web site for developers working with PDF and wants to use PDF as part of their application. This repository will host the sample applications source code. More coming soon.
 
